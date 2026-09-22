@@ -1,1 +1,2 @@
 # Sales-Analysis-Dashboard
+Developed an interactive Sales Analysis Dashboard using Power BI to track revenue, sales, profit, and key performance indicators (KPIs).Performed data cleaning, transformation, and analysis to identify sales trends and business performance.Created interactive KPI cards, charts, slicers, and visualizations to analyze sales by product, category, region, and time period.Derived actionable business insights from sales data to support data-driven decision-making
